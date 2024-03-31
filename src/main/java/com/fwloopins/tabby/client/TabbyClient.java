@@ -39,10 +39,10 @@ public class TabbyClient implements ClientModInitializer {
 		TabbyConfig config = AutoConfig.getConfigHolder(TabbyConfig.class).getConfig();
 
 		KeyBinding reloadBinding = KeyBindingHelper.registerKeyBinding(new KeyBinding(
-				"key.reload",
+				"key.tabby.reload",
 				InputUtil.Type.KEYSYM,
 				config.misc.reloadKey,
-				"category.tabby"
+				"Tabby"
 		));
 
 		ClientTickEvents.END_CLIENT_TICK.register(client -> {

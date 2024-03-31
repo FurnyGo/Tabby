@@ -27,6 +27,8 @@
   "text.autoconfig.Tabby.option.misc.debug.@Tooltip[0]": "Включите, чтобы отобразить особые данные.",
   "text.autoconfig.Tabby.option.misc.debug.@Tooltip[1]": "Будет засорять логи.",
 
+  "key.tabby.reload": "Перезагрузить функции",
+
   "modmenu.summaryTranslation.tabby": "Расширенная настройка списка игроков.",
   "modmenu.descriptionTranslation.tabby": "Изменяйте отображение списка игроков по своему усмотрению."
 }

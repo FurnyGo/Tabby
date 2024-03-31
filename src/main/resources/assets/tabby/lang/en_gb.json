@@ -25,5 +25,7 @@
   "text.autoconfig.Tabby.option.misc.reloadKey.@Tooltip": "Keybinding to reload certain Tabby features",
   "text.autoconfig.Tabby.option.misc.debug": "Debug",
   "text.autoconfig.Tabby.option.misc.debug.@Tooltip[0]": "Set to true to enable specific debug logs",
-  "text.autoconfig.Tabby.option.misc.debug.@Tooltip[1]": "Will spam logs"
+  "text.autoconfig.Tabby.option.misc.debug.@Tooltip[1]": "Will spam logs",
+
+  "key.tabby.reload": "Reload features"
 }
